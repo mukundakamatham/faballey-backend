@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@heroku-cli/plugin-buildpacks": "^7.54.0",
     "@heroku/buildpack-registry": "^1.0.1",
     "async-file": "^2.0.2",
     "bcryptjs": "^2.4.3",
@@ -32,6 +33,7 @@
     "passport-google-oauth2": "^0.2.0",
     "phoenix": "^1.6.5",
     "react-router-dom": "^6.0.2",
+    "true-myth": "^5.1.1",
     "uuid": "^8.3.2"
   }
 }
