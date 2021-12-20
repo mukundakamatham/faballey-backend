@@ -1,0 +1,2 @@
+# Faballey.com
+FabAlley.com is an online fashion store for taste-makers and trend-breakers all over the country. When it comes to online shopping for women looking for the latest fashion trends, FabAlley is the one-stop destination. Started in 2012, this online fashion store comprises of the trendiest tops, hottest dresses, skirts, jackets, shoes, bags, accessories and fashion jewellery for women online shopping.
