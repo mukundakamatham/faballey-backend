@@ -22,18 +22,19 @@
     "@heroku/buildpack-registry": "^1.0.1",
     "async-file": "^2.0.2",
     "bcryptjs": "^2.4.3",
+    "bower": "^1.8.13",
+    "bower-json": "^0.8.4",
     "cli-ux": "^6.0.6",
     "config": "^3.3.6",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express-validator": "^6.13.0",
     "got": "^12.0.0",
+    "grunt": "^1.0.1",
     "heroku": "^7.59.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.12",
     "nodemon": "^2.0.15",
-
-
     "npm": "^8.3.0",
     "passport": "^0.5.0",
     "passport-facebook": "^3.0.0",
@@ -41,8 +42,6 @@
     "phoenix": "^1.6.5",
     "react-router-dom": "^6.0.2",
     "true-myth": "^5.1.1",
-    "uuid": "^8.3.2",
-    "bower":"^1.8.0",
-    "grunt":"^1.0.1"
+    "uuid": "^8.3.2"
   }
 }
