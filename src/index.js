@@ -34,7 +34,9 @@ passport.serializeUser(function({user, token}, done) {
 passport.deserializeUser(function({user, token}, done) {
     done(err, {user, token});
 });
-
+app.get('/', function(req, res, next) {  
+  res.status(200).send("Hi, It works!")  
+}); 
 app.get("/auth/google/failure", function(req, res) {
     return res.send("Something went wrong");
 })
